@@ -8,13 +8,12 @@
 
 I am a former special education teacher, excited to begin a career in UX design with a drive for learning. I attended Makers Academy - a 16 week development bootcamp. During those 16 weeks I have developed a passion for Object Oriented Design, Test Driven Development and coding. However, what most excites me most is melding my former experience, to hunt for answers on the user behind the screen...
 
-## Projects
-##### [Time for an adventure](www.google.com)
-A Web application that allows users to create and play choose your own adventure stories.
+## <a name="projects"> Projects </a>
+- **[Time for an adventure](www.google.com)**
+  - A Web app where users can create and play choose your own adventure stories.
 Demonstration of the application - [Demo](www.google.com).  
+  - My contribution to this project was primarily to construct a clean UI for creating your own stories
 
-##### [Dr Strangecode](https://drstrangecode.herokuapp.com/)
-A Web application that allows users to share and review code snippets
 
 ## <a name="skills">Skills</a>
 **:date: Application Design and Project Management**
@@ -37,7 +36,7 @@ A Web application that allows users to share and review code snippets
 **:sparkling_heart: People Person**
 +  Working in the social sector for the last 3 years, with children with learning disabilities and adults with ill-mental health, I have developed a keen sense for empathising with service users.
 
-+  I love figuring out how people react and how to adapt to the situation. When working with non-verbal children with severe autism, we spent everyday monitoring, breaking down and implementing solutions to adjust to the each child's behaviour.
++  I love figuring out how people react and how to adapt to the situation. When working with non-verbal children with severe autism, we spent everyday monitoring, breaking down and implementing solutions to adjust to each child's behaviour.
 
 +  The goal is to combine the best of both bringing people and technology together  
 
