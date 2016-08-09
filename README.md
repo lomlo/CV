@@ -4,15 +4,17 @@
 
 [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Right Now](#Rightnow)
 
-<!-- + Be more specific and find examples
-+ My life and my experience
-+ Get other people to read the CV -->
-
 ## Profile
 
-<!-- rewrite - seems fake  -->
 I am a former special education teacher, excited to begin a career in UX design with a drive for learning. I attended Makers Academy - a 16 week development bootcamp. During those 16 weeks I have developed a passion for Object Oriented Design, Test Driven Development and coding. However, what most excites me most is melding my former experience, to hunt for answers on the user behind the screen...
 
+## Projects
+#### [Time for an adventure](www.google.com)
+A Web application that allows users to create and play choose your own adventure stories
+Demonstration of the application - [Demo](www.google.com).  
+
+#### [Dr Strangecode](www.google.com)
+A Web application that allows users to share and review code snippets
 
 ## <a name="skills">Skills</a>
 **:date: Application Design and Project Management**
@@ -26,7 +28,7 @@ I am a former special education teacher, excited to begin a career in UX design 
 
 **:books: Fast Learner**
 <!-- maybe mention full stack, MVC, request response relationships here?? -->
-+  Over the period of 16 weeks at Makers Academy I learnt and utilised new technologies to create web apps: Ruby,  Javascript, JQuery, Ruby on Rails, Node.js , SQL all put together with test driven development (link to table of projects)
++  Over the period of 16 weeks at Makers Academy I learnt and utilised new technologies to create web apps: Ruby,  Javascript, JQuery, Ruby on Rails, Node.js and SQL all put together with test driven development
 
 +  Assigned to a classroom where a form of sign language, known as Makaton, was used to communicate with children. Sink or Swim, it was essential I catch up to a certain standard to communicate effectively. Thankfully I swam.
 
