@@ -9,11 +9,11 @@
 I am a former special education teacher, excited to begin a career in UX design with a drive for learning. I attended Makers Academy - a 16 week development bootcamp. During those 16 weeks I have developed a passion for Object Oriented Design, Test Driven Development and coding. However, what most excites me most is melding my former experience, to hunt for answers on the user behind the screen...
 
 ## Projects
-#### [Time for an adventure](www.google.com)
-A Web application that allows users to create and play choose your own adventure stories
+##### [Time for an adventure](www.google.com)
+A Web application that allows users to create and play choose your own adventure stories.
 Demonstration of the application - [Demo](www.google.com).  
 
-#### [Dr Strangecode](www.google.com)
+##### [Dr Strangecode](www.google.com)
 A Web application that allows users to share and review code snippets
 
 ## <a name="skills">Skills</a>
