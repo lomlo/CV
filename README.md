@@ -28,7 +28,7 @@ I am a former special education teacher, excited to begin a career in UX design 
 <!-- maybe mention full stack, MVC, request response relationships here?? -->
 +  Over the period of 16 weeks at Makers Academy I learnt and utilised new technologies to create web apps: Ruby,  Javascript, JQuery, Ruby on Rails, Node.js , SQL all put together with test driven development (link to table of projects)
 
-+  Assigned to a classroom where a form of sign language, known as Makaton, was used to communicate with children. Sink or Swim, it was essential I catch up to a certain standard to communicate effectively. Thankfully I swam. Every Monday during swimming class.
++  Assigned to a classroom where a form of sign language, known as Makaton, was used to communicate with children. Sink or Swim, it was essential I catch up to a certain standard to communicate effectively. Thankfully I swam.
 
 + Taking a support role at a high support facility for males diagnosed with severe ill-mental health... Yup. Lots of responsibility and pressure to adapt in a short space of time
 
@@ -48,8 +48,8 @@ I am a former special education teacher, excited to begin a career in UX design 
 **Social Enterprise Training: Balloon Ventures** (Eldoret, Kenya)    
 *International development volunteering  /  12-week program*
 
-**Biology with Psychology undergraduate degree (2:1)**   
-*Royal Holloway University of London*
+**Biology with Psychology undergraduate degree (2:1)** (London, UK)  
+*Royal Holloway University of London / 3 Years*
 
 <!-- ====Add projects section!!!!!===== -->
 
@@ -57,27 +57,27 @@ I am a former special education teacher, excited to begin a career in UX design 
 ## <a name="Experience">Experience</a>
 
 **Teaching Assistent ** (2015 Feb - Sept)  
- + :date: Rota
- + :books: Makaton
- + :couple_with_heart:
+:date: Planning and teaching phonetics for three - four children <br/>
+:books: Adapting to unique behaviours of the children and learning sign language<br/>
+:couple_with_heart: Learning how to manage poor behaviour and behavioural outbursts
 
 **Mental Health Support Worker**
 
-+ :date: Rota
-+ :books: Makaton
-+ :couple_with_heart:
+:date: Managing and recording medication records <br/>
+:books: Adapting to unique behaviours of males with ill-mental health <br/>
+:couple_with_heart: Monitoring behaviour to identify the types of support  required 
 
 ## <a name="Rightnow">What I'm up to right now </a>
 
-+ Practicing user research with the app we developed for our final project
-+ A blog that dissects sites from around the web suggesting UX design improvements
-+ Catching up with research from the Nielson Norman Group
-+ figuring out ux tools and maybe, just maybe, how to do AB testing
+:white_check_mark: Practicing user research with the app we developed for our final project <br/>
+:white_check_mark: A blog that dissects sites from around the web suggesting UX design improvements <br/>
+:white_check_mark: Catching up with research from the Nielson Norman Group <br/>
+:white_check_mark: Refactoring projects <br/>
+:white_check_mark: Figuring out ux tools and maybe, just maybe, how to do AB testing
 
-All of which can be found here at my website (link)
 
+All of which can be found here at my [Website](https://lomlo.github.io/)
 
- <!-- Add passion and enthusiasm RE: user driven design, neilson group, etc... -->
 <!-- what is the final Project???
 github and linkedin profile links -->
 <!-- What people are saying -->
