@@ -32,7 +32,7 @@ I am a former special education teacher, excited to begin a career in UX design 
 
 + Taking a support role at a high support facility for males diagnosed with severe ill-mental health... Yup. Lots of responsibility and pressure to adapt in a short space of time
 
-**:couple_with_heart: People Person**
+**:sparkling_heart: People Person**
 +  Working in the social sector for the last 3 years, with children with learning disabilities and adults with ill-mental health, I have developed a keen sense for empathising with service users.
 
 +  I love figuring out how people react and how to adapt to the situation. When working with non-verbal children with severe autism, we spent everyday monitoring, breaking down and implementing solutions to adjust to the each child's behaviour.
@@ -56,13 +56,13 @@ I am a former special education teacher, excited to begin a career in UX design 
 **Teaching Assistent** (2015 Feb - Sept)  
 :date: Planning and teaching phonetics for three - four children <br/>
 :books: Adapting to unique behaviours of the children and learning sign language<br/>
-:couple_with_heart: Learning how to manage poor behaviour and behavioural outbursts
+:sparkling_heart: Learning how to manage poor behaviour and behavioural outbursts
 
 **Mental Health Support Worker**
 
 :date: Managing and recording medication records <br/>
 :books: Adapting to unique behaviours of males with ill-mental health <br/>
-:couple_with_heart: Monitoring behaviour to identify the types of support  required
+:sparkling_heart: Monitoring behaviour to identify the types of support  required
 
 ## <a name="Rightnow">What I'm up to right now </a>
 
