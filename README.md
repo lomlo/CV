@@ -13,7 +13,7 @@ I am a former special education teacher, excited to begin a career in UX design 
 A Web application that allows users to create and play choose your own adventure stories.
 Demonstration of the application - [Demo](www.google.com).  
 
-##### [Dr Strangecode](www.google.com)
+##### [Dr Strangecode](https://drstrangecode.herokuapp.com/)
 A Web application that allows users to share and review code snippets
 
 ## <a name="skills">Skills</a>
@@ -60,7 +60,7 @@ A Web application that allows users to share and review code snippets
 :books: Adapting to unique behaviours of the children and learning sign language<br/>
 :sparkling_heart: Learning how to manage poor behaviour and behavioural outbursts
 
-**Mental Health Support Worker**
+**Mental Health Support Worker** (2013 - 2015)  
 
 :date: Managing and recording medication records <br/>
 :books: Adapting to unique behaviours of males with ill-mental health <br/>
