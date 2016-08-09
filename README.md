@@ -37,26 +37,23 @@ I am a former special education teacher, excited to begin a career in UX design 
 
 +  I love figuring out how people react and how to adapt to the situation. When working with non-verbal children with severe autism, we spent everyday monitoring, breaking down and implementing solutions to adjust to the each child's behaviour.
 
-+  It's all about the people. As much as I enjoy coding, and will continue to code in my spare time, I love the interaction and social aspect too too much. Blending the best of both is the dream. UX.
++  The goal is to combine the best of both bringing people and technology together  
 
-<!-- --add more people people skill comments -- relatable experiences -- accessibility -->
 
 ## <a name="Education">Education</a>
 **Software Developer Bootcamp: MAKERS ACADEMY** (London, UK)  
 *1 dev bootcamp in Europe  /  16-week program  /  10% acceptance rate*
 
 **Social Enterprise Training: Balloon Ventures** (Eldoret, Kenya)    
-*International development volunteering  /  12-week program*
+*International development volunteering /  12-week program*
 
 **Biology with Psychology undergraduate degree (2:1)** (London, UK)  
 *Royal Holloway University of London / 3 Years*
 
-<!-- ====Add projects section!!!!!===== -->
-
 
 ## <a name="Experience">Experience</a>
 
-**Teaching Assistent ** (2015 Feb - Sept)  
+**Teaching Assistent** (2015 Feb - Sept)  
 :date: Planning and teaching phonetics for three - four children <br/>
 :books: Adapting to unique behaviours of the children and learning sign language<br/>
 :couple_with_heart: Learning how to manage poor behaviour and behavioural outbursts
@@ -65,7 +62,7 @@ I am a former special education teacher, excited to begin a career in UX design 
 
 :date: Managing and recording medication records <br/>
 :books: Adapting to unique behaviours of males with ill-mental health <br/>
-:couple_with_heart: Monitoring behaviour to identify the types of support  required 
+:couple_with_heart: Monitoring behaviour to identify the types of support  required
 
 ## <a name="Rightnow">What I'm up to right now </a>
 
@@ -77,7 +74,3 @@ I am a former special education teacher, excited to begin a career in UX design 
 
 
 All of which can be found here at my [Website](https://lomlo.github.io/)
-
-<!-- what is the final Project???
-github and linkedin profile links -->
-<!-- What people are saying -->
