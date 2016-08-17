@@ -1,7 +1,5 @@
 ## Michael Lo
 
-:envelope:  Michael.lo@live.co.uk | :telephone_receiver: +44 788333984743 | :globe_with_meridians: https://lomlo.github.io/
-
 [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Right Now](#Rightnow)
 
 ## Profile
