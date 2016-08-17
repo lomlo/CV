@@ -9,7 +9,7 @@
 I am a former special education teacher, excited to begin a career in UX design with a drive for learning. I attended Makers Academy - a 16 week development bootcamp. During those 16 weeks I have developed a passion for Object Oriented Design, Test Driven Development and coding. However, what most excites me most is melding my former experience, to hunt for answers on the user behind the screen...
 
 ## <a name="projects"> Projects </a>
-- **[Time for an adventure](www.google.com)**
+- **[Time for an adventure](https://github.com/lomlo/TFAA)**
   - A Web app where users can create and play choose your own adventure stories.
 Demonstration of the application - [Demo on Youtube](https://www.youtube.com/watch?v=a4NPua1kmD0).  
   - My contribution to this project was primarily to construct a clean UI for creating your own stories
@@ -26,7 +26,6 @@ Demonstration of the application - [Demo on Youtube](https://www.youtube.com/wat
 + Daily Stand ups, facilitating communication reflecting on team dynamics and personal development
 
 **:books: Fast Learner**
-<!-- maybe mention full stack, MVC, request response relationships here?? -->
 +  Over the period of 16 weeks at Makers Academy I learnt and utilised new technologies to create web apps: Ruby,  Javascript, JQuery, Ruby on Rails, Node.js and SQL all put together with test driven development
 
 +  Assigned to a classroom where a form of sign language, known as Makaton, was used to communicate with children. Sink or Swim, it was essential I catch up to a certain standard to communicate effectively. Thankfully I swam.
@@ -70,8 +69,5 @@ Demonstration of the application - [Demo on Youtube](https://www.youtube.com/wat
 :white_check_mark: Practicing user research with the app we developed for our final project <br/>
 :white_check_mark: A blog that dissects sites from around the web suggesting UX design improvements <br/>
 :white_check_mark: Catching up with research from the Nielson Norman Group <br/>
-:white_check_mark: Refactoring projects <br/>
-:white_check_mark: Figuring out ux tools and maybe, just maybe, how to do AB testing
+:white_check_mark: Learning how, why and what tools to use to evaulate and iterate on the user experience design
 
-
-All of which can be found here at my [Website](https://lomlo.github.io/)
