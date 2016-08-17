@@ -11,7 +11,7 @@ I am a former special education teacher, excited to begin a career in UX design 
 ## <a name="projects"> Projects </a>
 - **[Time for an adventure](www.google.com)**
   - A Web app where users can create and play choose your own adventure stories.
-Demonstration of the application - [Demo](www.google.com).  
+Demonstration of the application - [Demo on Youtube](https://www.youtube.com/watch?v=a4NPua1kmD0).  
   - My contribution to this project was primarily to construct a clean UI for creating your own stories
 
 
