@@ -7,8 +7,10 @@
 I am a former special education teacher, excited to begin a career in UX design with a drive for learning. I attended Makers Academy - a 16 week development bootcamp. During those 16 weeks I have developed a passion for Object Oriented Design, Test Driven Development and coding. However, what most excites me most is melding my former experience, to hunt for answers on the user behind the screen...
 
 ## <a name="projects"> Projects </a>
-- **[UX restaurant redesign](https://medium.com/@Lomlo/a61fa8348e1f)**
-  - Documentation of the process I went through to redesign a restaurant website.
+- **[UX restaurant Analytics](https://medium.com/@Lomlo/2b965ef34c88)**
+  - Fancy graphs inspired by Nicholas Felton displaying Analytic insights
+- **[UX restaurant prototyping](https://medium.com/@Lomlo/a61fa8348e1f)**
+  - Documentation of the process I went through to redesign a restaurant website. 
 - **[Time for an adventure](https://github.com/lomlo/TFAA)**
   - A Web app where users can create and play choose your own adventure stories.
 Demonstration of the application - [Demo on Youtube](https://www.youtube.com/watch?v=a4NPua1kmD0).  
