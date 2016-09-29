@@ -10,7 +10,7 @@ I am a former special education teacher, excited to begin a career in UX design 
 - **[UX restaurant Analytics](https://medium.com/@Lomlo/2b965ef34c88)**
   - Fancy graphs inspired by Nicholas Felton displaying Analytic insights
 - **[UX restaurant prototyping](https://medium.com/@Lomlo/a61fa8348e1f)**
-  - Documentation of the process I went through to redesign a restaurant website. 
+  - Usability testing, interative prototypes and requirment workshops to design a mobile website! 
 - **[Time for an adventure](https://github.com/lomlo/TFAA)**
   - A Web app where users can create and play choose your own adventure stories.
 Demonstration of the application - [Demo on Youtube](https://www.youtube.com/watch?v=a4NPua1kmD0).  
